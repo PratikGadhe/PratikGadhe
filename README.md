@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-<img src="./assets/pratik-banner.png" alt="Pratik Gadhe — Building software, AI systems and solving real-world problems." width="100%">
+<img src="./pratik-banner.png" alt="Pratik Gadhe — Building software, AI systems and solving real-world problems." width="100%">
 
 </div>
 

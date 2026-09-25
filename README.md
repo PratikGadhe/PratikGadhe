@@ -118,4 +118,18 @@ Built using computer vision and hardware integration...
 
 ## 📊 GitHub in Numbers
 
-> Stats cards will be added here after setting up a reliable GitHub Actions workflow.
+<div align="center">
+
+<img
+  src="./profile/stats.svg"
+  height="180"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="./profile/top-langs.svg"
+  height="180"
+  alt="Top Languages"
+/>
+
+</div>

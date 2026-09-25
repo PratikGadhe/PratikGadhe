@@ -66,3 +66,16 @@ Built using computer vision and hardware integration...
 **Stack:** Python • OpenCV • Arduino • SQLite
 
 🔗 **[View Repository](https://github.com/PratikGadhe/Major-Project-RVM-Machine-Code)**
+
+## 🏆 Achievements
+
+| Result | Event / Competition | Project / Category |
+|---|---|---|
+| 🥇 **Winner** | **Technova 2026** | Project Competition |
+| 🥇 **1st Position** | **Crezona 2025** | Coding Competition |
+| 🥈 **2nd Position** | **Launchspire 2.0** | Startup Idea Presentation |
+| 🥈 **Runner Up** | **Technocave 2025** | Incentivized Plastic Recycling Machine |
+| 🥈 **2nd Position** | **Project Competition** | NEXORA |
+| 🚀 **Advanced to Next Round** | **Smart India Hackathon 2026** | Problem Statement 26117 |
+
+> 🚀 **SIH 2026:** Building **VYASA** for Problem Statement 26117 — *Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work.*

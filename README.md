@@ -133,3 +133,22 @@ Built using computer vision and hardware integration...
 />
 
 </div>
+
+## 🐍 Watch the snake eat my contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/PratikGadhe/PratikGadhe/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/PratikGadhe/PratikGadhe/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/PratikGadhe/PratikGadhe/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>

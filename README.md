@@ -79,3 +79,39 @@ Built using computer vision and hardware integration...
 | 🚀 **Advanced to Next Round** | **Smart India Hackathon 2026** | Problem Statement 26117 |
 
 > 🚀 **SIH 2026:** Building **VYASA** for Problem Statement 26117 — *Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work.*
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,javascript" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,pytorch,sklearn" />
+</p>
+
+### 🧠 AI Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker" />
+</p>
+
+`LangGraph` • `Ollama` • `Qwen3` • `Qwen3-VL` • `ChromaDB`
+
+### 🌐 Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,postgresql,sqlite" />
+</p>
+
+`React Native` • `Expo`
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+</p>

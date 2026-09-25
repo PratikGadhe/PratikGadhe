@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**PratikGadhe/PratikGadhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Pratik Gadhe
 
-Here are some ideas to get you started:
+### Building software, AI systems and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://img.shields.io/badge/AI%2FML-0A84FF?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML"/>
+<img src="https://img.shields.io/badge/Software-00C7FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Software"/>
+<img src="https://img.shields.io/badge/Developer-5865F2?style=for-the-badge&logo=devdotto&logoColor=white" alt="Developer"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-00B8D9?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving"/>
+
+</div>

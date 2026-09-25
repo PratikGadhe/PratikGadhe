@@ -91,7 +91,7 @@ Built using computer vision and hardware integration...
 ### 🤖 AI / ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
 </p>
 
 ### 🧠 AI Engineering

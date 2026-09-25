@@ -115,3 +115,7 @@ Built using computer vision and hardware integration...
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
 </p>
+
+## 📊 GitHub in Numbers
+
+> Stats cards will be added here after setting up a reliable GitHub Actions workflow.
